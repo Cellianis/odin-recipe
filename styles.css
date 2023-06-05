@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+.main {
+    font-size: 50px;
+    color: rgb(0, 95, 95);
+    font-weight: 300;
+    background-color: rgba(240, 210, 151, 0.7);
+}
+
+.lasagna, 
+.grilledcheese, 
+.asparagus {
+    font-size: 24px;
+    color: darkolivegreen;
+    font-weight: 100;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 50px;
+    color: darkcyan;
+    font-weight: 300;
+    background-color: rgba(240, 210, 151, 0.7); 
+}
+
+h3,
+ul,
+ol,
+.tips {
+    font-size: 24px;
+    color: darkolivegreen;
+    font-weight: 100;
+    background-color: antiquewhite;
+}
+
+h2 {
+ font-size: 32px;
+ color: rgb(0, 95, 95);
+}
